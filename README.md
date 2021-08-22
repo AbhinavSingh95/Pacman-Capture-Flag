@@ -10,4 +10,4 @@ The project includes implementation of various stratergies:
 4. Heuristic Search
 5. Q-learning
 
-The project was donne as a part of the assignment alonng with Abhinav Singh, Siddharth Agarwal and Ronak.
+The project was donne as a part of the assignment alonng with Aayush Mehta, Siddharth Agarwal and Ronak.
